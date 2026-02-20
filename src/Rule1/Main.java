@@ -1,3 +1,12 @@
+/**
+ * @author Julio Cebrero
+ * 
+ * Rule 05-OBJ11-J: Be wary of letting constructors
+ * throw exceptions
+ * 
+ * Helps demonstarte the compliant solution using
+ * a finnal class to prvent finalizer attacks
+ */
 package src.Rule1;
 
 public class Main {
