@@ -2,14 +2,15 @@
  * @author Julio Cebrero
  * 
  * Rule 06-MET00-J: Validate Method Arguments
- * 
- * Represents a Student object that helps demonstrate the rule by
- * adding validation to method arguments and also validating the
- * internal state before use.
  */
 
 package src.Rule2;
 
+/**
+ * Represents a Student object that helps demonstrate the rule by
+ * adding validation to method arguments and also validating the
+ * internal state before use.
+ */
 public class Student {
     /**The name of the student */
     private String name;

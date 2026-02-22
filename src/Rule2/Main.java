@@ -2,13 +2,14 @@
  * @author Julio Cebrero
  * 
  * Rule 06-MET00-J: Validate Method Arguments
- * 
- * Helps demonstrate compliant solution by using
- * the Student class which validates the method 
- * arguments
  */
 package src.Rule2;
 
+/**
+ * Main class helps demonstrate compliant solution by using
+ * the Student class which validates the method 
+ * arguments
+ */
 public class Main {
 
     /**
@@ -18,7 +19,7 @@ public class Main {
      * Also demonstrates Student methods with wrong arguments
      * passed.
      * 
-     * @param args
+     * @param args not used
      */
     public static void main(String[] args) {
         //Valid fully initialized Student

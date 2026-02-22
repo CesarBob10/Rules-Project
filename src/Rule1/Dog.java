@@ -3,14 +3,15 @@
  * 
  * Rule 05-OBJ11-J: Be wary of letting constructors
  * throw exceptions
- * 
- * Represents a Dog object that helps demonstrate the rule by
- * declaring the class final to prevent finalizer attacks when
- * an Exception is thrown by the constructor.
  */
 
 package src.Rule1;
 
+/**
+ * Represents a Dog object that helps demonstrate the rule by
+ * declaring the class final to prevent finalizer attacks when
+ * an Exception is thrown by the constructor.
+ */
 public final class Dog {
     /** The name of the dog */
     private String name;

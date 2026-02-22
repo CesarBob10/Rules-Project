@@ -3,12 +3,13 @@
  * 
  * Rule 05-OBJ11-J: Be wary of letting constructors
  * throw exceptions
- * 
- * Helps demonstrate the compliant solution using
- * a final class to prevent finalizer attacks
  */
 package src.Rule1;
 
+/**
+ * Main class helps demonstrate the compliant solution using
+ * a final class to prevent finalizer attacks
+ */
 public class Main {
 
     /**
