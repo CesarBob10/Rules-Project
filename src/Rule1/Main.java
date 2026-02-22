@@ -4,7 +4,7 @@
  * Rule 05-OBJ11-J: Be wary of letting constructors
  * throw exceptions
  * 
- * Helps demonstarte the compliant solution using
+ * Helps demonstrate the compliant solution using
  * a final class to prevent finalizer attacks
  */
 package src.Rule1;
